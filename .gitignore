@@ -1,0 +1,5 @@
+.idea
+__pycache__
+zhoomart_venv/
+venv/
+.venv/
